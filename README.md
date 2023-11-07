@@ -1,17 +1,16 @@
-
-# Hi there, I'm Agustin Saba 👋
-
-##### 🇦🇷 I'm from Mendoza, Argentina
-##### 🎓 I'm an accountant
-##### 🤓 I'm studying a university degree in programming
-##### 🔭 I currently work as a freelance accountant and teach programming fundamentals
+<h1 align="center">Hi there, I'm Agustin Saba 👋</h1>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🇦🇷 I'm from Mendoza, Argentina
+- 🎓 I'm an accountant
+- 🤓 I'm studying a university degree in programming
+- 🔭 I currently work as a freelance accountant and teach programming fundamentals
 
-<h3 align="left">If you want to know more about me you can visit my profile on LinkedIn: https://www.linkedin.com/in/agustin-saba/</h3>
 <p align="left">
-</p>
+<h3 align="left">If you want to know more about me you can visit my profile on LinkedIn:</h3>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/agustin-saba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustin-saba/" height="30" width="40"/></a></p>
+
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
