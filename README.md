@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">If you want to know more about me you can visit my profile: https://www.linkedin.com/in/agustin-saba/</h3>
+<h3 align="left">If you want to know more about me you can visit my profile on LinkedIn: https://www.linkedin.com/in/agustin-saba/</h3>
 <p align="left">
 </p>
 <br>
