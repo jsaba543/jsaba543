@@ -1,8 +1,9 @@
-#  Hi there, I'm Agustin Saba 👋
-### 🇦🇷 I'm from Mendoza, Argentina
-### 🎓 I'm an accountant
-### 🤓 I'm studying a university degree in programming
-### 🔭 I currently work as a freelance accountant and teach programming fundamentals
+<h1 align=center> Hi there, I'm Agustin Saba 👋</h1>  
+
+##### 🇦🇷 I'm from Mendoza, Argentina
+##### 🎓 I'm an accountant
+##### 🤓 I'm studying a university degree in programming
+##### 🔭 I currently work as a freelance accountant and teach programming fundamentals
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
